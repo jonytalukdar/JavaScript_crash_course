@@ -203,3 +203,39 @@
 // for ( let todo of todos){
 //     console.log(todo.id)
 // }
+
+
+// forEach , map , filter
+
+// let todos = [
+//     {
+//         id : 1,
+//         test : 'this is first day todos',
+//         isCompleted : false
+//     },
+//       {
+//         id : 2,
+//         test : 'this is second day todos',
+//         isCompleted : true
+//     },
+//       {
+//         id : 3,
+//         test : 'this is third day todos',
+//         isCompleted : false
+//     },
+// ]
+
+// todos.forEach(function(todo){
+//     console.log(todo.test);
+// })
+
+// const todoTest = todos.map(function(todo){
+//     return todo.test
+// })
+// console.log(todoTest);
+
+
+// const todoCompleted = todos.filter(function(todo){
+//     return todo.isCompleted ===true;
+// })
+// console.log(todoCompleted);
