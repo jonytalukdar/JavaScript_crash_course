@@ -18,7 +18,6 @@
 // const b = undefined;
 // const c = '';
 
-
 // concatenation
 
 // const name = 'joney'
@@ -30,7 +29,6 @@
 
 // const details =  `My name is ${name} and I am ${age} years old`
 // console.log(details)
-
 
 // strings method
 
@@ -45,7 +43,6 @@
 // console.log(a.split(''))
 // console.log(somethings.split(','))
 
-
 // array in javascript
 // array is variables that hold multiple values
 
@@ -57,17 +54,13 @@
 // console.log(fruits)
 // console.log(fruits[2])
 
-
 // const various = ['mango' , 'apple' , 12 , 'banana' , true]
 // console.log(various)
-
-
 
 // // Array constructor
 
 // const numbers = new Array(12,23,45,67)
 // console.log(numbers)
-
 
 // arrays method
 
@@ -83,8 +76,7 @@
 // console.log(Array.isArray(arr))
 // console.log(arr)
 
-
-// object literal 
+// object literal
 
 // const person = {
 //     firstName : 'joney',
@@ -105,8 +97,6 @@
 // console.log(person.hobbies[2])
 // console.log(person.address.state)
 // console.log(person)
-
-
 
 // array object
 
@@ -134,8 +124,6 @@
 // console.log(todos[1].text)
 // console.log(todos[2]['text'])
 
-
-
 // const todos = [
 //     {
 //         id: 1,
@@ -158,7 +146,6 @@
 
 // const todosJson = JSON.stringify(todos)
 // console.log(todosJson)
-
 
 // loops in javascript
 
@@ -204,7 +191,6 @@
 //     console.log(todo.id)
 // }
 
-
 // forEach , map , filter
 
 // let todos = [
@@ -234,8 +220,13 @@
 // })
 // console.log(todoTest);
 
-
 // const todoCompleted = todos.filter(function(todo){
 //     return todo.isCompleted ===true;
 // })
 // console.log(todoCompleted);
+
+
+
+// condition in javascript
+
+const n = 12;
