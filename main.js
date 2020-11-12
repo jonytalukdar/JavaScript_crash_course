@@ -229,4 +229,24 @@
 
 // condition in javascript
 
-const n = 12;
+// const n = 12;
+// const b = 12;
+
+// if(n > b){
+//     console.log(`${n} is greater than ${b}`)
+// }else if(n<b){
+//     console.log(`${n} is greater than ${b}`)
+// }else{
+//     console.log('they both are same')
+// }
+
+// const x = 6;
+// const y = 12
+
+// if (x > 5 || y > 10) {
+//   console.log(`${x} is more than 5 or ${y} is more than 10`);
+// }
+
+// if (x > 5 && y > 10) {
+//   console.log(`${x} is more than 5 or ${y} is more than 10`);
+// }
