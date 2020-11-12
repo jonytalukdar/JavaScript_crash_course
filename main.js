@@ -250,3 +250,13 @@
 // if (x > 5 && y > 10) {
 //   console.log(`${x} is more than 5 or ${y} is more than 10`);
 // }
+
+
+// ternary operator
+
+// var a = 12
+// var b =17
+
+// var result = (a > b) ? 'a is greater than b' : 'b is greater than a'
+
+// console.log(result)
